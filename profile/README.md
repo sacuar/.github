@@ -17,6 +17,8 @@ The current project directory and screenshots are available on the [sacuar GitHu
 
 [![BANG IPTV screenshot](https://raw.githubusercontent.com/sacuar/MyIPTV/main/screenshots/scr2.png)](https://github.com/sacuar/MyIPTV)
 
+**In preparation:** Screen CaptureForge — a separate screen-capture application built locally, with source and screenshots **not yet published** to GitHub. It is not the Pointframe fork.
+
 For open issues, testing or new features, visit the relevant project's GitHub repository. Contributions and bug reports are welcome.
 
 [☕ Optional developer support](https://buymeacoffee.com/sacuar)
