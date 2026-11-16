@@ -1,169 +1,24 @@
-## HiBit Uninstaller Crack
+# sacuar — software projects
 
-HiBit Uninstaller 3.2.20 is designed to uninstall any program from the settings menu on Linux and Mac systems. It provides additional features such as an advanced manager for web applications, junk file removal, registry cleaning, startup and operational support, and system preferences management, among others. Google allows users to search for programs and access their metadata repositories. Users can quickly and efficiently eliminate any unnecessary files they come across. Forced removal is an option when a program becomes too outdated or corrupted to be uninstalled properly.
+The current project directory and screenshots are available on the [sacuar GitHub profile](https://github.com/sacuar).
 
-## Registration Code:
+## Active software projects
 
-- Y7NPT-OB8ST-8L7FL-8U6BQ-V5GBF
-- N1G3J-30LKN-TYG5Y-1Y9UC-AHUYJ
-- TCGME-GHST5-FKUOJ-Q0TWV-05J3T
-- 0RZR2-Y2N20-BWX0S-37LBH-TFBTZ
+| Project | Purpose |
+|---|---|
+| [Lumen](https://github.com/sacuar/Lumen) | Lightweight editor inspired by Sublime Text; contributors welcome |
+| [Quick Photo Viewer](https://github.com/sacuar/quick_photo_viewer) | Windows image viewer |
+| [BANG IPTV](https://github.com/sacuar/MyIPTV) | M3U playlist and live TV player |
+| [IPTV Stream Checker](https://github.com/sacuar/IPTV_stream_checker) | M3U stream checker |
 
-##  Product Key:
+### Project previews
 
-- F4M2W-4HW8U-J8MMN-GHH0K-IB1OF
-- NXP16-ED7XI-DA3Z1-SWC83-RBMCS
-- NEV42-MLNIM-B6VSC-5SJ4W-HCYZM
-- IVPHL-LQ5RC-5V5PY-JT31B-J4TL2
+[![Lumen editor screenshot](https://raw.githubusercontent.com/sacuar/Lumen/main/docs/screenshots/Capture1.png)](https://github.com/sacuar/Lumen)
 
-[**Get Link**](https://drive.usercontent.google.com/download?id=1fyUFg-gEdg78VdkZFoXrccUkMmYjlQKV)
+[![BANG IPTV screenshot](https://raw.githubusercontent.com/sacuar/MyIPTV/main/screenshots/scr2.png)](https://github.com/sacuar/MyIPTV)
 
+For open issues, testing or new features, visit the relevant project's GitHub repository. Contributions and bug reports are welcome.
 
- 
+[☕ Optional developer support](https://buymeacoffee.com/sacuar)
 
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+*Projects from other developers, including forks, remain credited to their original maintainers. Documentation does not override repository-specific licences.*
